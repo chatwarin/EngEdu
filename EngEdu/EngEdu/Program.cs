@@ -12,6 +12,12 @@ namespace EngEdu
         {
             Console.WriteLine("Year 255x semester 1, I am an Engedu freshman.");
             Console.WriteLine("Year 255x semester 2, I learn to program in C sharp.");
+            Console.WriteLine("Year 2560 semester 1, I start my programmer life.");
+            Console.WriteLine("Year 2560 semester 2, I learn to program in VHDL.");
+            Console.WriteLine("Year 2561 semester 1, I learn to program in C++.");
+            Console.WriteLine("Year 2561 semester 2, I learn to program in C.");
+            Console.WriteLine("Year 2562 semester 1, I have to do mini project.");
+            Console.WriteLine("Year 2562 semester 2, I learn to program in Javascript.");
             Console.WriteLine("Year 2560 semester 1, I have to regrade on some course.");
             Console.WriteLine("Year 2560 semester 2, I attend an orientation of the faculty.");
             Console.WriteLine("Year 2561 semester 1, I attend an internship orientation.");
