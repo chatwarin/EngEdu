@@ -17,6 +17,7 @@ namespace EngEdu
             Console.WriteLine("Year 2561 semester 1, I attend an internship orientation.");
             Console.WriteLine("Year 2561 semester 2, I got an internship with the company.");
             Console.WriteLine("Year 2562 semester 1, I learn to professional teaching practice.");
+            Console.WriteLine("Year 2562 semester 2, I must to do project.");
         }
     }
 }
